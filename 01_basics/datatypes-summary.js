@@ -26,3 +26,11 @@ const myFunction  = function(){
     console.log("hello world!");
 };
 // Dynamically types language 
+
+
+
+
+
+// ++++++++++++++++++++++++++++++++++++++++++++++++
+
+// stack(Primitive), heap(non - primitive)
