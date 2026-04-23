@@ -23,3 +23,14 @@ let stringNumber = String(someNumber);
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+//==============================================
+// Operations
+
+let value = 3
+let negValue = -value
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(3 + 2 + "2");
+
