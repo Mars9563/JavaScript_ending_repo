@@ -1,6 +1,4 @@
 # JavaScript_ending_repo
-i have to complete this in a day
 
-I thought i will be able to complete in one day
-hehe
-lets see how many days it takes
+## This is my second attempt at this let's do this.
+
